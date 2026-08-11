@@ -1,5 +1,5 @@
 return {
-	{Name = "Fashion-Spin-Pose", Id = 106398192336622, Price = 50},
+	{Name = "Fashion-Spin", Id = 130046968468383, Price = 50},
 	{Name = "Hello", Id = 3576686446, Price = 25},
 	{Name = "Shrug", Id = 3576968026, Price = 25},
 	{Name = "Superhero-Reveal", Id = 78224443243622, Price = 25},
