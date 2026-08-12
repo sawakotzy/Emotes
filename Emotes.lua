@@ -67,4 +67,7 @@ return {
 	{Name = "Marry-me", Id = 118317123633030, Price = 25},
 	{Name = "Mime", Id = 121558490761409, Price = 25},
 	{Name = "Lasso-Turn-Tai-Verdes", Id = 7942972744, Price = 25},
+	{Name = "Mean-Mug-Tommy-Hilfiger", Id = 10214415687, Price = 25},
+	{Name = "Break-Dance", Id = 5915773992, Price = 25},
+	{Name = "Cuco-Levitate", Id = 15698511500, Price = 25},
 }
